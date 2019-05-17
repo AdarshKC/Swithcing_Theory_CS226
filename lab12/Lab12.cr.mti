@@ -1,0 +1,97 @@
+C:/Users/IITP/Desktop/1701CS01/tb_fsm_vendingmachine.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/tb_fsm_vendingmachine.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module tb_fsm_vendingmachine
+
+Top level modules:
+	tb_fsm_vendingmachine
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/tb_logic.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/tb_logic.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module tb_logic
+
+Top level modules:
+	tb_logic
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/fsm_trafic_light.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/fsm_trafic_light.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module fsm_trafic_light
+-- Compiling module tb_fsm_trafic_light
+
+Top level modules:
+	tb_fsm_trafic_light
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/fsm.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/fsm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module fsm
+-- Compiling module tb_fsm
+
+Top level modules:
+	tb_fsm
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/logic.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/logic.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module logic
+-- Compiling module tb_logic
+
+Top level modules:
+	tb_logic
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/ALU_file.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/ALU_file.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/p1.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/p1.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module p1
+
+Top level modules:
+	p1
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/p2.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/p2.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module p2
+
+Top level modules:
+	p2
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/p3.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/p3.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module p3
+
+Top level modules:
+	p3
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/blk_nonblk.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/blk_nonblk.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module fsm_trafic_light
+-- Compiling module tb_fsm_trafic_light
+
+Top level modules:
+	tb_fsm_trafic_light
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/fsm_vendingmachine.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/fsm_vendingmachine.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module fsm_vendingmachine
+
+Top level modules:
+	fsm_vendingmachine
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/tb_p1.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/tb_p1.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module tb_p1
+
+Top level modules:
+	tb_p1
+
+} {} {}} C:/Users/IITP/Desktop/1701CS01/tb_p2.v {1 {vlog -work work -vopt C:/Users/IITP/Desktop/1701CS01/tb_p2.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module tb_p2
+
+Top level modules:
+	tb_p2
+
+} {} {}}

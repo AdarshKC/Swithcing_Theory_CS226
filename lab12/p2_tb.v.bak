@@ -1,0 +1,20 @@
+module tb_p2(); //the test_bench
+	reg clk, reset;
+	wire upper;
+	wire [3:0]Q;
+	p2 UUT(Q, upper, reset, clk);
+	reset = 1'b1;
+	clk = 1'b0;
+	initial
+	begin
+			forever #5 clk = ~clk;
+			reset = 1'b0;
+  end
+	initial
+	begin //simulation
+			$monitor("COUNT  = %b", Q, " | UPPER = %b", upper);
+			#20;
+	end
+	initial //stop after 200 time units
+	#200 $finish; 
+endmodule

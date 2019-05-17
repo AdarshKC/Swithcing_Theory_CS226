@@ -1,0 +1,26 @@
+module tb_p3();
+	reg clk, res,c0,c1;
+	wire[2:0] curr;
+	p3 UUT(c0,c1,clk,res,curr);
+	initial res = 1'b1;
+	always #10 clk = ~clk;
+	initial
+		begin
+		clk = 1'b1;
+		res = 1'b0;
+		
+		c0=1'b0;
+		c1=1'b0;
+		#80;
+		c0=1'b0;
+		c1=1'b1;
+		#80;
+		c0=1'b1;
+		c1=1'b0;
+		#80;
+		c0=1'b1;
+		c1=1'b1;
+		#80;
+	end
+endmodule
+

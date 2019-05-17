@@ -1,0 +1,15 @@
+module p3(clk,c0,c1,out);
+  input clk,c0,c1;
+  output [2:0] out;
+  
+  reg [2:0] state=3'b000;
+  
+  always @(posedge clk) begin
+    if (~c0 & ~c1) state = state;
+    else if (~c0 & c1) state = state+1;
+    else if (c0 & ~c1) state = state-1;
+    else if (c0 & c1) state = state+2;
+  end
+  
+  assign out = state;
+endmodule
